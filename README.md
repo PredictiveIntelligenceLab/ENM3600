@@ -1,4 +1,4 @@
-# ENM 3600: Introduction to Data-driven modeling
+# ENM 3600: Introduction to Data-driven Modeling
 
 ### Course Description
 
@@ -14,6 +14,7 @@ From recognizing voice, text or images to designing more efficient airplane wing
 
 - A Python environment set up for scientific computing (I recommend the [Anaconda distribution](https://anaconda.org/anaconda/python))
 - Machine learning libraries: [JAX](https://github.com/google/jax)
+- Cloud computing: [Google Colab](https://colab.research.google.com)
 
 ### Course Learning Objectives
 
