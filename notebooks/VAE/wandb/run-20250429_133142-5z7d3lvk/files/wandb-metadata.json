@@ -1,0 +1,31 @@
+{
+  "os":  "macOS-10.16-x86_64-i386-64bit",
+  "python":  "CPython 3.12.7",
+  "startedAt":  "2025-04-29T17:31:42.990615Z",
+  "program":  "/Users/paris/Downloads/VAE/train_mnist.ipynb",
+  "codePath":  "train_mnist.ipynb",
+  "email":  "pgp@seas.upenn.edu",
+  "root":  "/Users/paris/Downloads/VAE",
+  "host":  "seasdhcp-111-229.seas.upenn.edu",
+  "executable":  "/opt/anaconda3/bin/python",
+  "codePathLocal":  "train_mnist.ipynb",
+  "cpu_count":  10,
+  "cpu_count_logical":  20,
+  "disk":  {
+    "/":  {
+      "total":  "1000240963584",
+      "used":  "553037426688"
+    },
+    "/System/Volumes/Data":  {
+      "total":  "1000240963584",
+      "used":  "553037426688"
+    }
+  },
+  "memory":  {
+    "total":  "34359738368"
+  },
+  "cpu":  {
+    "count":  10,
+    "countLogical":  20
+  }
+}

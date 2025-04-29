@@ -1,0 +1,4 @@
+JAX running on 1 devices
+Global batch size: 32
+Per-device batch size: 32
+Starting training...

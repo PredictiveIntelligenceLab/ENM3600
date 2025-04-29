@@ -1,0 +1,6 @@
+image
+(4, 32, 16)
+JAX running on 1 devices
+image
+(4, 32, 16)
+[CpuDevice(id=0)]

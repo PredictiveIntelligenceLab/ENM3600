@@ -1,0 +1,12 @@
+{"time":"2025-04-29T12:58:01.884044-04:00","level":"INFO","msg":"stream: starting","core version":"0.19.10","symlink path":"/Users/paris/Downloads/VAE/wandb/run-20250429_125801-blxfdqvg/logs/debug-core.log"}
+{"time":"2025-04-29T12:58:01.894474-04:00","level":"ERROR","msg":"monitor: failed to initialize GPU asset: monitor: could not start GPU binary: fork/exec /opt/anaconda3/lib/python3.12/site-packages/wandb/bin/gpu_stats: bad CPU type in executable"}
+{"time":"2025-04-29T12:58:01.996675-04:00","level":"INFO","msg":"created new stream","id":"blxfdqvg"}
+{"time":"2025-04-29T12:58:01.996723-04:00","level":"INFO","msg":"stream: started","id":"blxfdqvg"}
+{"time":"2025-04-29T12:58:01.99675-04:00","level":"INFO","msg":"sender: started","stream_id":"blxfdqvg"}
+{"time":"2025-04-29T12:58:01.996758-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"blxfdqvg"}
+{"time":"2025-04-29T12:58:01.996751-04:00","level":"INFO","msg":"handler: started","stream_id":"blxfdqvg"}
+{"time":"2025-04-29T12:58:02.136938-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-29T12:59:16.2288-04:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-29T12:59:16.229656-04:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-29T12:59:39.740259-04:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-29T12:59:40.828634-04:00","level":"INFO","msg":"Resuming system monitor"}

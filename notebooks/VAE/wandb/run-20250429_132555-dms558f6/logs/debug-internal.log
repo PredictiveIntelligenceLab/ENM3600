@@ -1,0 +1,24 @@
+{"time":"2025-04-29T13:25:55.245728-04:00","level":"INFO","msg":"stream: starting","core version":"0.19.10","symlink path":"/Users/paris/Downloads/VAE/wandb/run-20250429_132555-dms558f6/logs/debug-core.log"}
+{"time":"2025-04-29T13:25:55.254946-04:00","level":"ERROR","msg":"monitor: failed to initialize GPU asset: monitor: could not start GPU binary: fork/exec /opt/anaconda3/lib/python3.12/site-packages/wandb/bin/gpu_stats: bad CPU type in executable"}
+{"time":"2025-04-29T13:25:55.324008-04:00","level":"INFO","msg":"created new stream","id":"dms558f6"}
+{"time":"2025-04-29T13:25:55.324056-04:00","level":"INFO","msg":"stream: started","id":"dms558f6"}
+{"time":"2025-04-29T13:25:55.324077-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"dms558f6"}
+{"time":"2025-04-29T13:25:55.324098-04:00","level":"INFO","msg":"handler: started","stream_id":"dms558f6"}
+{"time":"2025-04-29T13:25:55.324081-04:00","level":"INFO","msg":"sender: started","stream_id":"dms558f6"}
+{"time":"2025-04-29T13:25:55.483681-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-29T13:25:55.984899-04:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-29T13:25:55.98641-04:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-29T13:25:56.003599-04:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-29T13:25:57.825152-04:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-29T13:26:15.998006-04:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-29T13:26:16.002908-04:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-29T13:26:16.505668-04:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-29T13:26:16.509458-04:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-29T13:26:17.905221-04:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-29T13:26:17.913938-04:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-29T13:26:19.540591-04:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-29T13:26:19.543962-04:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-29T13:26:28.39623-04:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-29T13:26:28.399727-04:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-29T13:26:32.367161-04:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-29T13:26:34.006146-04:00","level":"INFO","msg":"Resuming system monitor"}
